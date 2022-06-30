@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = s3://mybucket/dvcstore
+    url = webhdfs://[url]/user/mlops/dvc
